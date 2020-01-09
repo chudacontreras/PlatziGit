@@ -39,7 +39,6 @@ body
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
-    background-color: aliceblue;
 }
 
 #container h1
@@ -48,13 +47,16 @@ body
 }
 #post
 {
+    background: white;
     padding: 1em;
-    
 }
+
 #footer
 {
-    background: #777;
+    background: #37488b;
     color: white;
     text-align: center;
     padding: 0.5em;
 }
+
+
